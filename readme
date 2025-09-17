@@ -1,0 +1,2 @@
+este es una aplicacion donde el objetivo es sortear un amigo aleatorio de una lista de amigos la cual vamos almacenando en un array, al finalizar el sorteo se reinicia la aplicacion.
+tambien tienen ventanas emergentes por si se repite el nombre en la lista de amigos 
